@@ -1,0 +1,1 @@
+MY SQL-SQL project on LayOffTrend Analysis using sql queries , window fiunctions, Ctes ensuring the data cleaned and avoided the duplicates, nulls and followed normalization objectives and projected some insightful analysis on global layoff trends.
